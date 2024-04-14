@@ -1,7 +1,7 @@
-### Pinatas
+# Pinatas
 For install CLI aplication you need run install.sh script file.
 
-# for Linux
+### for Linux
 ```
 source install.sh
 ```
