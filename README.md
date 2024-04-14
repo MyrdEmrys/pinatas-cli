@@ -16,5 +16,3 @@ deactivate
 ```
 ## Time
 Estimated completion time: 5-6 hours
-
-s
