@@ -14,3 +14,7 @@ For deactivate python virtual environment:
 ```
 deactivate
 ```
+## Time
+Estimated completion time: 5-6 hours
+
+s
